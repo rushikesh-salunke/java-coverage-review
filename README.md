@@ -38,3 +38,6 @@ If you don't want it:
 
 Spotted a mistake? Questions? Suggestions?  
 [Open an Issue](https://github.com/joaomlneto/travis-ci-tutorial-java/issues/new)!
+
+
+This file is edited for creating PR.
